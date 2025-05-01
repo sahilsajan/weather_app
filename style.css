@@ -94,3 +94,8 @@ nav form button {
 .ai_suggestions:hover {
   transform: scale(1.02);
 }
+
+img{
+  width:100px;
+  height: 100px;
+}
