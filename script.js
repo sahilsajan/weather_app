@@ -14,7 +14,7 @@ function search(e) {
 
 // Add this function to call Google Gemini API
 async function getAISuggestions(location, condition, temp) {
-  const apiKey = "AIzaSyARY1xs79e_g5h-QZAjLI8Xc-i5soD5SVI"; // Replace with your actual API key
+  const apiKey = "AIzaSyARY1xs79e_g5h-QZAjLI8Xc-i5soD5SVI";
   const prompt = `Give weather safety tips and suggestions for ${location} where the weather condition is ${condition} with a temperature of ${temp}°C.`;
 
   try {
