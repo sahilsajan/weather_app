@@ -88,7 +88,7 @@ document.addEventListener("DOMContentLoaded", () => {
   aiSuggestionDiv.innerText = "AI suggestions will appear here.";
   container.appendChild(aiSuggestionDiv);
 
-  fetchData("Mumbai"); // Initial fetch
+  fetchData("Toronto"); // Initial fetch
 });
 
-fetchData("Mumbai");
+fetchData("Toronto");
