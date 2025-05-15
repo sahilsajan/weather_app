@@ -14,4 +14,4 @@ to do:
 
 AI model to give results based on current weather
 
-add dynamic image
+add dynamic image - get image icon from https://www.weatherapi.com/
